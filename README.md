@@ -12,4 +12,7 @@ Projeto para organizar diferentes bancos de dados para utilizar em aula.
 4. **notas.csv**: banco de dados referente ao capítulo de _11. Delineamentos de Medidas Repetidas (MLG4)_ do livro de [Field, 2009](https://www.amazon.com.br/Descobrindo-Estat%C3%ADstica-Usando-SPSS-Field/dp/8536319275)
     > Utilizado para o ensino de Análise de Variância com medidas repetidas
 
+5. **linelist_cleaned**: lista de casos de epidemia de ebola
+
 Contato: welintonhirainap@gmail.com
+
